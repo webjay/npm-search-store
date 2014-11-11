@@ -11,6 +11,10 @@ Search the npm registry and save results in MongoDB. Made to be run from a cron 
 or if you `git pull`:
 
     KEYWORDS=journster npm start
+    
+The crontab I use for [journster.com](http://www.journster.com) looks like this:
+
+    */15 * * * * KEYWORDS=journster /usr/bin/node /usr/local/bin/npm-search-store
   
 ## Environment variables
 
