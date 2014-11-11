@@ -1,6 +1,6 @@
 {
   "name": "npm-search-store",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Search npm and store results in MongoDB",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "npm",
+    "npm-search",
     "search",
     "mongodb"
   ],
