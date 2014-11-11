@@ -1,5 +1,3 @@
-#!env node
-
-'use strict';
+#!/bin/env node
 
 require('../index');
