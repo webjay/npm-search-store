@@ -17,7 +17,7 @@ or if you `git pull`:
 - DBLINK
 
   MongoDB Connection String URI.
-  If not specified, it will default to `mongodb://localhost:27017/npm-search-store`.
+  If not specified, it will default to: `mongodb://localhost:27017/npm-search-store`
 
 - KEYWORDS 
 
