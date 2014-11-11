@@ -1,11 +1,15 @@
 {
   "name": "npm-search-store",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Search npm and store results in MongoDB",
   "main": "index.js",
   "scripts": {
     "start": "node index"
   },
+  "bin": {
+    "npm-search-store": "./index.js"
+  },
+  "preferGlobal": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/webjay/npm-search-store.git"

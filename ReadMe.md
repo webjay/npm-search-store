@@ -2,7 +2,7 @@
 
 Search the npm registry and save results in MongoDB. Made to be run from a cron task.
 
-    npm install npm-search-store
+    npm install npm-search-store -g
     
 ## Run
 
