@@ -17,4 +17,4 @@ Search the npm registry and save results in MongoDB. Made to be run from a cron 
 
 - KEYWORDS 
 
-  A required comma sparated list of keywords to search for.
+  A required comma separated list of keywords to search for.
