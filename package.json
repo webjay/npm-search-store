@@ -1,13 +1,13 @@
 {
   "name": "npm-search-store",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Search npm and store results in MongoDB",
   "main": "index.js",
   "scripts": {
     "start": "node index"
   },
   "bin": {
-    "npm-search-store": "./index.js"
+    "npm-search-store": "bin/cli.js"
   },
   "preferGlobal": true,
   "repository": {
